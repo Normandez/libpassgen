@@ -1,0 +1,2 @@
+# libpassgen
+Password generation library
